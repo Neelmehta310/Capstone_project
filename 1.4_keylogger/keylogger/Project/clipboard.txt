@@ -1,0 +1,4 @@
+Clipboard Data: 
+count = 0
+keys = []
+
